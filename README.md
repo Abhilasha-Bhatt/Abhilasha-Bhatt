@@ -43,13 +43,11 @@
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/abhilasha-bhatt3/)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Abhilasha-Bhatt)
 <br/><br/><br/>
-<h2 align="center">GitHub Analytics</h2>
+<h2 align="center">GitHub Analytics
 <p >
   <img width="40%" alt="Abhilasha-Bhatt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhilasha-Bhatt&show_icons=true&hide_border=true&theme=algolia"/>
   <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhilasha-Bhatt&layout=compact&langs_count=8&theme=algolia"/>
   <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhilasha-Bhatt&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
 </p>
-
-<p align = "center">
- <img width="70%" src="https://activity-graph.herokuapp.com/graph?username=Abhilasha-Bhatt&theme=redical">
-</p> 
+</a>
+<h2></h2>
